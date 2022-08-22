@@ -1,0 +1,8 @@
+{
+  "rate": [
+    { "country": "IN", "s_c": 500,"pr_from":"1L","pr_TO":"2L", "weight":1 },
+   { "country": "IN", "s_c": 500,"pr_from":"1L","pr_TO":"2L", "weight":1 },
+{ "country": "IN", "s_c": 500,"pr_from":"1L","pr_TO":"2L", "weight":1 },
+  ],
+
+}
